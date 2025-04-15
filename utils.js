@@ -1,33 +1,3 @@
-"use strict";
-
-/**
-########################################################
-#                                                      #
-#   CODE  : SOLIX DEPIN Bot v1.0.0                     #
-#   NodeJs: v23.10.0                                   #
-#   Author: CMALF                                      #
-#   TG    : https://t.me/djagocuan                     #
-#   GH    : https://github.com/cmalf                   #
-#                                                      #
-########################################################
-*/
-/**
- * This code is open-source and welcomes contributions! 
- * 
- * If you'd like to add features or improve this code, please follow these steps:
- * 1. Fork this repository to your own GitHub account.
- * 2. Make your changes in your forked repository.
- * 3. Submit a pull request to the original repository. 
- * 
- * This allows me to review your contributions and ensure the codebase maintains high quality. 
- * 
- * Let's work together to improve this project!
- * 
- * P.S. Remember to always respect the original author's work and avoid plagiarism. 
- * Let's build a community of ethical and collaborative developers.
- */
-
-
 const fs = require('fs');
 const { HttpsProxyAgent } = require('https-proxy-agent');
 const { SocksProxyAgent } = require('socks-proxy-agent');
@@ -57,9 +27,6 @@ function CoderMark() {
   try {
     console.log(`
     
- ______     __    __     ______     __         ______  
-/\\  ___\\   /\\ "-./  \\   /\\  __ \\   /\\ \\       /\\  ___\\ ${Colors.Green}
-\\ \\ \\____  \\ \\ \\-./\\ \\  \\ \\  __ \\  \\ \\ \\____  \\ \\  __\\ 
  \\ \\_____\\  \\ \\_\\ \\ \\_\\  \\ \\_\\ \\_\\  \\ \\_____\\  \\ \\_\\ ${Colors.Blue}  
   \\/_____/   \\/_/  \\/_/   \\/_/\\/_/   \\/_____/   \\/_/   ${Colors.Blue}${Colors.RESET}
                                                         
@@ -68,9 +35,9 @@ ${Colors.Gold}[+] ${Colors.RESET}SOLIX BOT ${Colors.Green}JS ${Colors.RESET}
   
 ${Colors.Green}${"―".repeat(55)}
   
-${Colors.Gold}[+]${Colors.RESET} DM : ${Colors.Teal}https://t.me/Djagocuan
+${Colors.Gold}[+]${Colors.RESET} DM : ${Colors.Teal}https://t.me/Kazuha787
   
-${Colors.Gold}[+]${Colors.RESET} GH : ${Colors.Teal}https://github.com/cmalf/
+${Colors.Gold}[+]${Colors.RESET} GH : ${Colors.Teal}https://github.com/kazuha/
     
 ${Colors.Green}${"―".repeat(55)}${Colors.RESET}
     `);
