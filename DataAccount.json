@@ -1,0 +1,26 @@
+[
+  {
+    "email": "devsinghharsh000@gmail.com",
+    "userId": "67fd34bec260b8c63719f40a",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2ZkMzRiZWMyNjBiOGM2MzcxOWY0MGEiLCJlbWFpbCI6ImRldnNpbmdoaGFyc2gwMDBAZ21haWwuY29tIiwicmVmZXJyYWxDb2RlIjoiblo4bDIzWHMiLCJyZWZlcnJlcklkIjoiNjdmZDExNDQ4YzhmZjI2NWY3ZTFmNGViIiwiaWF0IjoxNzQ0NjU2NDA0LCJleHAiOjE3NDQ2NjAwMDR9.MobeWH0W6wbXtcegOinYpeXD_ovVFo2U9dKcbBMEXBA",
+    "accountName": "Account 2",
+    "totalPoints": 0,
+    "isEarning": false
+  },
+  {
+    "email": "suhail.butt710@gmail.com",
+    "userId": "67fd11448c8ff265f7e1f4eb",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2ZkMTE0NDhjOGZmMjY1ZjdlMWY0ZWIiLCJlbWFpbCI6InN1aGFpbC5idXR0NzEwQGdtYWlsLmNvbSIsInJlZmVycmFsQ29kZSI6InlpT3pyeUdSIiwicmVmZXJyZXJJZCI6bnVsbCwiaWF0IjoxNzQ0NjU2NDA1LCJleHAiOjE3NDQ2NjAwMDV9.XG9a0CO2nvCt9Br740W-QE4IYufUBNov9f0RKFpoZOE",
+    "accountName": "Account 1",
+    "totalPoints": 0,
+    "isEarning": false
+  },
+  {
+    "email": "krishmathur52@gmail.com",
+    "userId": "67fd5776c260b8c6371c46af",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2ZkNTc3NmMyNjBiOGM2MzcxYzQ2YWYiLCJlbWFpbCI6ImtyaXNobWF0aHVyNTJAZ21haWwuY29tIiwicmVmZXJyYWxDb2RlIjoiUzdFMDdKUUIiLCJyZWZlcnJlcklkIjoiNjdmZDExNDQ4YzhmZjI2NWY3ZTFmNGViIiwiaWF0IjoxNzQ0NjU2NDA1LCJleHAiOjE3NDQ2NjAwMDV9.Z2PvMkT5tw8lW8KKSFNtMoKO2Rk93uETSXYeGZoj5xU",
+    "accountName": "Account 4",
+    "totalPoints": 0,
+    "isEarning": false
+  }
+]
