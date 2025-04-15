@@ -43,12 +43,16 @@ Before running the bot, ensure you have:
    ```
    npm install
    ```
-2. **Add The Account**
+2. **Add The Account** Formate is
+   ```
+   email:password
+   ```
+    
    Add the `Account` in the Account.txt file
    ```
    nano accounts.txt
    ```
-3. **Proxy Setup**
+4. **Proxy Setup**
 
    Add The Proxy in The Following Format
    ```
